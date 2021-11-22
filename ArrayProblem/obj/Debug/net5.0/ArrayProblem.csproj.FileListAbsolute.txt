@@ -1,0 +1,16 @@
+C:\Users\ekt\source\repos\ArrayProblem\ArrayProblem\bin\Debug\net5.0\ArrayProblem.exe
+C:\Users\ekt\source\repos\ArrayProblem\ArrayProblem\bin\Debug\net5.0\ArrayProblem.deps.json
+C:\Users\ekt\source\repos\ArrayProblem\ArrayProblem\bin\Debug\net5.0\ArrayProblem.runtimeconfig.json
+C:\Users\ekt\source\repos\ArrayProblem\ArrayProblem\bin\Debug\net5.0\ArrayProblem.runtimeconfig.dev.json
+C:\Users\ekt\source\repos\ArrayProblem\ArrayProblem\bin\Debug\net5.0\ArrayProblem.dll
+C:\Users\ekt\source\repos\ArrayProblem\ArrayProblem\bin\Debug\net5.0\ref\ArrayProblem.dll
+C:\Users\ekt\source\repos\ArrayProblem\ArrayProblem\bin\Debug\net5.0\ArrayProblem.pdb
+C:\Users\ekt\source\repos\ArrayProblem\ArrayProblem\obj\Debug\net5.0\ArrayProblem.csproj.AssemblyReference.cache
+C:\Users\ekt\source\repos\ArrayProblem\ArrayProblem\obj\Debug\net5.0\ArrayProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekt\source\repos\ArrayProblem\ArrayProblem\obj\Debug\net5.0\ArrayProblem.AssemblyInfoInputs.cache
+C:\Users\ekt\source\repos\ArrayProblem\ArrayProblem\obj\Debug\net5.0\ArrayProblem.AssemblyInfo.cs
+C:\Users\ekt\source\repos\ArrayProblem\ArrayProblem\obj\Debug\net5.0\ArrayProblem.csproj.CoreCompileInputs.cache
+C:\Users\ekt\source\repos\ArrayProblem\ArrayProblem\obj\Debug\net5.0\ArrayProblem.dll
+C:\Users\ekt\source\repos\ArrayProblem\ArrayProblem\obj\Debug\net5.0\ref\ArrayProblem.dll
+C:\Users\ekt\source\repos\ArrayProblem\ArrayProblem\obj\Debug\net5.0\ArrayProblem.pdb
+C:\Users\ekt\source\repos\ArrayProblem\ArrayProblem\obj\Debug\net5.0\ArrayProblem.genruntimeconfig.cache
